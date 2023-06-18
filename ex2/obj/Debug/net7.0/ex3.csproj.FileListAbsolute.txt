@@ -1,0 +1,15 @@
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/bin/Debug/net7.0/ex3
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/bin/Debug/net7.0/ex3.deps.json
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/bin/Debug/net7.0/ex3.runtimeconfig.json
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/bin/Debug/net7.0/ex3.dll
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/bin/Debug/net7.0/ex3.pdb
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/obj/Debug/net7.0/ex3.csproj.AssemblyReference.cache
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/obj/Debug/net7.0/ex3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/obj/Debug/net7.0/ex3.AssemblyInfoInputs.cache
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/obj/Debug/net7.0/ex3.AssemblyInfo.cs
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/obj/Debug/net7.0/ex3.csproj.CoreCompileInputs.cache
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/obj/Debug/net7.0/ex3.dll
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/obj/Debug/net7.0/refint/ex3.dll
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/obj/Debug/net7.0/ex3.pdb
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/obj/Debug/net7.0/ex3.genruntimeconfig.cache
+/Users/sergeyavdeev/Desktop/GB_CS_seminar1/ex2/obj/Debug/net7.0/ref/ex3.dll
